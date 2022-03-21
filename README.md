@@ -1,5 +1,6 @@
 
-# Les participants au projet de site paint
+# Projet Fullstack "Paint"
+# Les participants au projet :
 
 | Personne            | Rôle                      | Github                                   | Linkedin                                                                               |
 | ------------------- | ------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
