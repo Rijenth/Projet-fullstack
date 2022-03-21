@@ -50,7 +50,7 @@
 | Une gomme pour pouvoir effacer une forme                                                     | ✅             | |
 | Sauvegarder ce dessin (pour la reprendre plus tard)                                          | ✅             | |
 | Choisir un dessin (parmi les sauvegardes)                                    | ✅             | |
-| Charger un dessin (parmi les sauvegardes) dans la zone de dessin                                   | ✅             | Lors du chargement, seul la tout première forme du dessin apparait. Il faut créer une nouvelle forme pour voir toutes la sauvegarde se charger completement. |
+| Charger un dessin (parmi les sauvegardes) dans la zone de dessin                                   | ✅             | Lors du chargement, seul la toute première forme du dessin apparait. Il faut créer une nouvelle forme pour voir toute la sauvegarde se charger complètement. |
 | Exporter le dessin au format image                                                           | ✅             | |
 | Exporter le dessin au format PDF                                                             | ✅             | |
 | Login                                                                                        | ✅             | |
