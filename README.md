@@ -37,7 +37,12 @@
 | Fonctionnalité             | Disponibilité | Bug                                   | 
 | ------------------- | -- | ---------------------------------------- | 
 | Dessiner un rectangle        | ✅ |  |
+| Dessiner un cercle ou une ellipse                                                            | ✅             | |
+| Dessiner un triangle (pointe vers le haut)                                                   | ✅             | |
+| Dessiner une zone de texte                                                                   | ✅             | |               
+| Une couleur "primaire" utilisée pour le contour des formes ou pour la couleur du texte       | ✅             | |                 
+| Une couleur "secondaire" utilisée pour le remplissage des formes ou le surlignement du texte | ✅             | |
 
-| Fonctionnalité                                                                               | Disponibilité | Bug |
-| -------------------------------------------------------------------------------------------- | -------------- | |
-| Dessiner un rectangle                                                                        | ✅             | | 
+
+
+
