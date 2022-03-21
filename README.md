@@ -34,6 +34,8 @@
 13. Sauvegarder un dessin avec le bouton « sauvegarder » pour pouvoir le reprendre plus tard.
 14. Choisir une sauvegarde de dessin à charger avec le bouton « Choisir », puis charger la sauvegarde avec le bouton « Charger ». /!\ Cette fonctionnalité présente un bug qui ne fait apparaitre que la première forme du dessin sauvegardé. Ce bug prend fin lorsque vous faites apparaitre une nouvelle forme dans la zone de dessin. /!\
 
+| Personne            | Rôle                      | Github                                   | Linkedin                                                                               |
+| ------------------- | ------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
 
 | Fonctionnalité                                                                               | Disponibilité | Bug |
 | -------------------------------------------------------------------------------------------- | -------------- | |
