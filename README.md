@@ -44,9 +44,9 @@
 | Une couleur "primaire" utilisée pour le contour des formes ou pour la couleur du texte       | ✅             | |                 
 | Une couleur "secondaire" utilisée pour le remplissage des formes ou le surlignement du texte | ✅             | |               
 | Un menu déroulant permettant de sélectionner une police parmi trois (minimum)                | ✅             |  |               
-| Présence d'une grande zone blanche pour y dessiner des formes                  | ✅             |  |
+| Présence d'une grande zone blanche pour y dessiner des formes                                | ✅             |  |
 | Déplacer la forme                                                                            | ✅             | |
-| Modifier les dimensions de la forme                                                            | ✅             |
+| Modifier les dimensions de la forme                                                            | ✅             | |
 | Changer les couleurs de la forme                                                             | ✅             | |
 | Une gomme pour pouvoir effacer une forme                                                     | ✅             | |
 | Sauvegarder ce dessin (pour la reprendre plus tard)                                          | ✅             | |
