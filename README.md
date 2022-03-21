@@ -42,6 +42,20 @@
 | Dessiner une zone de texte                                                                   | ✅             | |               
 | Une couleur "primaire" utilisée pour le contour des formes ou pour la couleur du texte       | ✅             | |                 
 | Une couleur "secondaire" utilisée pour le remplissage des formes ou le surlignement du texte | ✅             | |
+| Un menu déroulant permettant de sélectionner une police parmi trois (minimum)                | ✅             |  |               
+| Présence d'une grande zone blanche pour y dessiner des formes                  | ✅             |  |
+| Déplacer la forme                                                                            | ✅             | |
+| Modifier les dimensions de la forme                                                            | ✅             | |
+| Changer les couleurs de la forme                                                             | ✅             | |
+| Une gomme pour pouvoir effacer une forme                                                     | ✅             | |
+| Sauvegarder ce dessin (pour la reprendre plus tard)                                          | ✅             | |
+| Choisir un dessin (parmi les sauvegardes)                                    | ✅             | |
+| Charger un dessin (parmi les sauvegardes) dans la zone de dessin                                   | ✅             | Lors du chargement, seul la tout première forme du dessin apparait. Il faut créer une nouvelle forme pour voir toutes la sauvegarde se charger completement. |
+| Exporter le dessin au format image                                                           | ✅             | |
+| Exporter le dessin au format PDF                                                             | ✅             | |
+| Login                                                                                        | ✅             | |
+| Signup                                                                                       | ✅             | |
+| Dashboard des dessins qui on été sauvegardé par l'utilisateur                               | ✅             | |
 
 
 
