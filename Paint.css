@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-color: #100336;
+}
+
+div {
+    height: 100%;
+}
+
+button {
+    border-radius: 8px;
+}
+
+.page {
+    display: grid;
+    grid-template-columns: 10% 1fr;
+    grid-template-rows: 40px 80vh 100px;
+    background-color: #100336;
+}
+
+.menu_bar button{
+    height: 80%;
+    width: 100px;
+    background-color: #E0E0E0;
+    margin: 5px;
+}
+
+.menu_bar button:hover {
+    background: #F5F5F5;
+}
+
+.menu_bar {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-start: 1;
+    padding-left: 10%;
+    background-color: #100336;
+    font-size: 25px;
+}
+
+
+.left_column {
+    grid-column-start: 1;
+    grid-column-end: 1 ;
+    grid-row-start: 2;
+    grid-row-end: 2;
+    height: 100%;
+    background-color: #100336;
+}
+
+.left_column button {
+    height: 50px;
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+    background: #E0E0E0;
+}
+
+.left_column button:hover {
+    background: #F5F5F5;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+    margin: auto;
+}
+
+canvas {
+    border: 5px solid gold;
+    background-color: white;
+}
+
+#blue {
+    background: #023047;
+}
+
+#blue:hover {
+    background: #4747FF;
+}
+
+#orange {
+    background: #E4572E;
+}
+
+#orange:hover {
+    background: #FFBF47;
+}
+
+#yellow {
+    background: #FFB703;
+}
+
+#yellow:hover {
+    background: #FFCB47;
+}
+
+#blueborder {
+    background: none;
+    border: 3px solid #023047;
+}
+
+#blueborder:hover {
+    border: 3px solid #4747FF;
+}
+
+#blueborder:active {
+    border: 3px solid #0000CC;
+    background: #1C0660;
+}
+
+#orangeborder {
+    background: none;
+    border:3px solid #E4572E;
+}
+
+#orangeborder:hover {
+    border:3px solid #FFBF47;
+}
+
+#orangeborder:active {
+    border: 3px solid #CC8500;
+    background: #1C0660;
+}
+
+#yellowborder {
+    background: none;
+    border: 3px solid #FFB703;
+}
+
+#yellowborder:hover {
+    border: 3px solid #FFCB47;
+}
+
+#yellowborder:active {
+    border: 3px solid #CC9200 ;
+    background: #1C0660;
+}

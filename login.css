@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body{
+    background: #100336;
+    font-family: Helvetica, Arial, sans-serif;
+    padding-top: 200px;
+}
+.box .buttoncolor{
+    border: solid #100336 2px;
+    background-color: white;
+    color: #100336;
+    padding: 7px;
+    border-radius: 8px;
+    outline: none;
+}
+.box .buttoncolor:hover{
+    border: solid #100336 2px;
+    background-color: white;
+    color: #100336;
+    padding: 7px;
+    border-radius: 8px;
+}
+.box .buttoncolor::placeholder{
+    color: #100336;
+}
+.box{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    border: 3px white solid;
+    border-radius: 10px;
+
+
+}
+
+.box .connexion{
+   background-color: white;
+   border: solid #100336 3px;
+   border-radius: 20px;
+   height: 358px;
+}
+.seconnecter{
+    margin-top: 4px;
+    border: solid #100336 2px;
+    background-color: #100336;
+    color: white;
+    border-radius: 8px;
+    width: 100px;
+    padding: 6px;
+    cursor: pointer;
+}
+label{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #100336;
+    color: #100336;
+    font-size: 17px;
+   
+}
+.link_inscription{
+    text-decoration: none;
+    border: solid #100336 2px;
+    background-color: white;
+    color: #100336;
+    border-radius: 8px;
+    padding: 3px;
+    margin-top: 63px;
+
+
+}
+.pdulink{
+     margin-top: 19px; 
+}
+.connexion1{
+    margin: 30px; 
+}
+.connexion2{
+     margin-top: 30px; 
+     padding-bottom: 20px;
+}
+
+.bouge{
+margin-top: 20px;
+}
