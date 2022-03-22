@@ -5,10 +5,10 @@ $register = filter_input(INPUT_POST, "register");  /* Le button pour envoyer la 
 $user = filter_input(INPUT_POST, "user");
 $password = filter_input(INPUT_POST, "password");
 $mail = filter_input(INPUT_POST, "mail");
-$security_key = filter_input(INPUT_POST, "security_key");
+/* $security_key = filter_input(INPUT_POST, "security_key"); */
 
 if(isset($register)) {
-    if($user=="" or $password=="" or $mail=="" or $security_key !="haravirivicl"){
+    if($user=="" or $password=="" or $mail==""){
         echo '<left><h2 style="color:red">','Erreur ! Information manquante...','</h2></left>';
     } else  {
 
@@ -62,8 +62,8 @@ if(isset($register)) {
             <div class="connexion3"><label for="mail">Email:</label>
             <div><input class='buttoncolor' placeholder="test@test.fr" type="email" name="mail" id="mail" /><br/></div></div>
             <br>
-            <div class="connexion2"><label for="password">Clé de sécurité:</label>
-            <div><input class='buttoncolor' placeholder="********" type="password" name="password" id="password" /><br/></div></div>
+            <!-- <div class="connexion2"><label for="password">Clé de sécurité:</label>
+            <div><input class='buttoncolor' placeholder="********" type="password" name="password" id="password" /><br/></div></div> -->
             <br>
             <div><input class="inscription" type="submit" value="Inscription" name="register"/></div>
             <br>
