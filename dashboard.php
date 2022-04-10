@@ -6,7 +6,7 @@ $id = filter_input(INPUT_GET, "id", FILTER_VALIDATE_INT);
 
 if(!isset($_SESSION["user"])) { // !isset - Variable non déclarée et est null
     http_response_code(302);
-    header('Location: login.php');
+    header('Location: index.php');
     exit();
 } 
 

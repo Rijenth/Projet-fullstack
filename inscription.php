@@ -5,11 +5,15 @@ $register = filter_input(INPUT_POST, "register");  /* Le button pour envoyer la 
 $user = filter_input(INPUT_POST, "user");
 $password = filter_input(INPUT_POST, "password");
 $mail = filter_input(INPUT_POST, "mail");
-/* $security_key = filter_input(INPUT_POST, "security_key"); */
+$secretcode = filter_input(INPUT_POST, "secretcode");
 
 if(isset($register)) {
-    if($user=="" or $password=="" or $mail==""){
+    if($user=="" or $password=="" or $mail=="" or $secretcode !="paint"){
+        if($secretcode !="paint"){
+            echo '<left><h2 style="color:red">','Erreur ! Code secret faux ! ','</h2></left>';
+        } else {
         echo '<left><h2 style="color:red">','Erreur ! Information manquante...','</h2></left>';
+    }
     } else  {
 
     // Stockage des informations dans la BDD
@@ -58,16 +62,16 @@ if(isset($register)) {
             <div><input class='buttoncolor' placeholder="Mon id" type="text" name="user" id="user" /><br/></div></div>
 
             <div class="connexion2"><label for="password">Mot de passe :</label>
-            <div><input class='buttoncolor' placeholder="**" type="password" name="password" id="password" /><br/></div></div>
+            <div><input class='buttoncolor' placeholder="********" type="password" name="password" id="password" /><br/></div></div>
             <div class="connexion3"><label for="mail">Email:</label>
-            <div><input class='buttoncolor' placeholder="test@test.fr" type="email" name="mail" id="mail" /><br/></div></div>
+            <div><input class='buttoncolor' placeholder="exemple@gmail.com" type="email" name="mail" id="mail" /><br/></div></div>
             <br>
-            <!-- <div class="connexion2"><label for="password">Clé de sécurité:</label>
-            <div><input class='buttoncolor' placeholder="********" type="password" name="password" id="password" /><br/></div></div> -->
+            <div class="connexion2"><label for="password">Code secret:</label>
+            <div><input class='buttoncolor' placeholder="********" type="password" name="secretcode" id="password" /><br/></div></div>
             <br>
             <div><input class="inscription" type="submit" value="Inscription" name="register"/></div>
             <br>
-            <p class="pdulink"><a class="link_inscription" href="login.php">Retour à la page <strong>Login</strong></a></p>
+            <p class="pdulink"><a class="link_inscription" href="index.php">Retour à la page <strong>Login</strong></a></p>
         </form>
         </div>
     </div>
