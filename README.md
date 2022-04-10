@@ -15,8 +15,9 @@
 
 ## Comment accéder au site
 
-1. Vous pouvez vous inscrire sur le site en renseignant la clé de sécurité suivante "haravirivicl" dans le champ qui vous le demande.
-2. Sinon, vous pouvez vous connecter en utilisant les identifiants suivants : id="admin" et password="admin"
+1. Lien vers le site : https://paint.arijenth.com
+2. Vous pouvez vous inscrire sur le site en renseignant le code secret suivant "paint" dans le champ correspondant.
+
 
 ## Comment utiliser le site (Fonctionnalité disponible)
 
