@@ -5,8 +5,8 @@
 | Personne            | Rôle                      | Github                                   | Linkedin                                                                               |
 | ------------------- | ------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
 | ARUMAINATHAN Rijenth        | Backend | [@Rijenth](https://github.com/Rijenth) | [A_Rijenth](https://www.linkedin.com/in/rijentha/)                       |
-| HUANG Victor   | Frontend                  |    | [H_Victor](https://www.linkedin.com/in/linkvictorhuang/)             |
-| BESSON Victor | Frontend          |  | [B_Victor](https://www.linkedin.com/in/victor-besson/) |
+| HUANG Victor   | Frontend                  | [@Victor](https://github.com/tralalavico)   | [H_Victor](https://www.linkedin.com/in/linkvictorhuang/)             |
+| BESSON Victor | Frontend          | [@Victor](https://github.com/Neoznzoe) | [B_Victor](https://www.linkedin.com/in/victor-besson/) |
 | MABROUKI Rayane    | Frontend         |   |            |
 | AIDIBE Hassan        | Frontend | |                     |
 | BAYEL Clement        | Frontend | [@Clement](https://github.com/cbayel)  |     [B_Clement](https://www.linkedin.com/in/bayelc/)                 |
