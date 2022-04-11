@@ -9,7 +9,7 @@
 | BESSON Victor | Frontend          |  | [B_Victor](https://www.linkedin.com/in/victor-besson/) |
 | MABROUKI Rayane    | Frontend         |   |            |
 | AIDIBE Hassan        | Frontend | |                     |
-| BAYEL Clement        | Frontend | [@Clement](https://github.com/cbayel)  |                      |
+| BAYEL Clement        | Frontend | [@Clement](https://github.com/cbayel)  |     [B_Clement](https://www.linkedin.com/in/bayelc/)                 |
 
 ---
 
