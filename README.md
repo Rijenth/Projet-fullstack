@@ -16,7 +16,7 @@
 ## Comment accéder au site
 
 1. Lien vers le site : https://paint.arijenth.com
-2. Vous pouvez vous inscrire sur le site en renseignant le code secret suivant "paint" dans le champ correspondant.
+2. Vous pouvez vous inscrire sur le site en renseignant le code secret "paint" dans le champ correspondant.
 
 
 ## Comment utiliser le site (Fonctionnalité disponible)
